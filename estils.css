@@ -1,0 +1,34 @@
+.boto{
+    color: white;
+    text-decoration: none;
+    background: green;
+    padding: 5px;
+    width: 4px;
+    height: 5px;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
+
+#tableData{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+#tableData table{
+    margin: 20px;
+}
+
+td{
+    padding: 30px;
+    background-color: sienna;
+    border-style: solid;
+    border-left-color: saddlebrown;
+    border-bottom-color: saddlebrown;
+    border-right-color: peru;
+    border-top-color: peru;
+    border-width:10px;
+}
